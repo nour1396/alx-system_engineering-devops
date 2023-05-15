@@ -1,3 +1,3 @@
 #!/bin/bash
-touch \\\*\\\\"'\"Best School\"\\\'"\\\\\*\$\\\
+ehco 'Best School' > \\\*\\\\"'\"Best School\"\\\'"\\\\\*\$\\\
 ?\\\*\\\*\\\*\\\*\\\*:\)
